@@ -1,4 +1,4 @@
-# Agentic AI Inventory & Quoting System
+# Agentic AI Inventory & Quoting System (Multi-Agent Architecture)
 
 A multi-agent system for inventory management, pricing, and order fulfillment using tool-based AI agents.
 
@@ -9,6 +9,11 @@ A multi-agent system for inventory management, pricing, and order fulfillment us
 - Real-time inventory and financial tracking
 - Automatic reorder decisions when stock is low
 - Handles partial fulfillment and unsupported requests
+
+---
+## Architecture
+
+![Agent Workflow](agent_workflow_diagram.png)
 
 ---
 
